@@ -1,0 +1,6 @@
+.nav-container {
+	display: flex;
+	width: 1200px;
+	margin: 5px;
+	padding: 5px;
+}
