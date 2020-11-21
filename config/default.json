@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://MasonR:12345@cluster0.3ckfc.mongodb.net/fudb?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://MasonR:12345@cluster0.3ckfc.mongodb.net/fudb?retryWrites=true&w=majority",
+  "jwtSecret": "devauthtoken"
 }
