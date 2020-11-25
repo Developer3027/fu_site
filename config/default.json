@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://MasonR:12345@cluster0.3ckfc.mongodb.net/fudb?retryWrites=true&w=majority",
-  "jwtSecret": "devauthtoken"
+  "jwtSecret": "devauthtoken",
+  "githubClientId": "d34ae3c1b903ccd1aeec",
+  "githubSecret": "7acc525f7885b0f89ec731c2e63e19e42f8ae6f1"
 }
